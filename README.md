@@ -18,7 +18,11 @@ Copy the pfscan binary file to /usr/local/bin/
 
       sudo cp pfscan /usr/local/bin/
 
-To run protein_motif_searching.pl script, a copy of the PROSITE database is needed. This database is also provided in this repository (i.e., prosite.dat). Keep the prosite.dat file in the same folder where the protein_motif_searching.pl script is located.
+To run protein_motif_searching.pl script, a copy of the PROSITE database is needed. This database is also provided in this repository (i.e., prosite.dat.gz). First, you need to unzip the prosite.dat.gz 
+
+      gunzip prosite.dat.gz
+
+Keep the prosite.dat file in the same folder where the protein_motif_searching.pl script is located. 
 
 ## Usage/Examples
 
