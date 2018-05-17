@@ -1,1 +1,3 @@
-# protein-motif-searching_neuropeptides
+# Protein motif searching script for neuropeptide precursors
+
+## 
