@@ -8,7 +8,7 @@ Perl script that scans one o more protein motif patterns in FASTA files (i.e., p
 
 This script is associated with the following publication:
 
-- Thiel D, Franz-Wachtel M, Aguilera F & Hejnol A. (2018). Changes in the neuropeptide complement correlate with nervous system architecture in xenacoelomorphs. Molecular Biology and Evolution (Accepted)
+- Thiel D, Franz-Wachtel M, Aguilera F & Hejnol A. (2018). Changes in the neuropeptide complement correlate with nervous system architecture in xenacoelomorphs. Molecular Biology and Evolution **(Accepted)**
 
 ## Before using protein_motif_searching.pl script
 
