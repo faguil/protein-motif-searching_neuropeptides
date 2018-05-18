@@ -94,7 +94,9 @@ IIRIFHLRNI	Ile-Ile-Arg-Ils-Phe-His-Leu-Arg-Asn-Ile
 
 ## License
 
-Given this script relies on PROSITE, the Prosite.pm module is needed. This module is a Copyright (C) 2001-2006 to the Swiss Institute of Bioinformatics. It is released under the terms of the GNU General Public License, available at http://www.gnu.org/copyleft/gpl.html. This perl module is also provided in this repository and should be kept in the same folder where the protein_motif_searching.pl script is located.
+Given this script relies on PROSITE, the Prosite.pm module is needed. This module is a Copyright (C) 2001-2006 to the Swiss Institute of Bioinformatics. It is released under the terms of the GNU General Public License, available at http://www.gnu.org/copyleft/gpl.html. 
+
+This perl module is also provided in this repository and should be kept in the same folder where the protein_motif_searching.pl script is located.
 
 This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation.
 
