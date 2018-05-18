@@ -71,9 +71,7 @@ Repetition of an element of the pattern can be indicated by following that eleme
 
 **Examples:**
 
-x(3) corresponds to x-x-x
-x(2,4) corresponds to x-x or x-x-x or x-x-x-x
-A(3) corresponds to A-A-A
+x(3) corresponds to x-x-x; x(2,4) corresponds to x-x or x-x-x or x-x-x-x; A(3) corresponds to A-A-A
 
 When a pattern is restricted to either the N- or C-terminal of a sequence, that pattern respectively starts with a '<' symbol or ends with a '>' symbol. 
 
