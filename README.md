@@ -2,7 +2,7 @@
 
 ## Description
 
-Perl script that scans one o more protein motif patterns in FASTA files (i.e., protein sequences). This scripts relies on PROSITE; therefore, it requires the external program pfscan. A binary executable file is given in this repository. This script has been tested on Linux Ubuntu 16.04, but it is probable that also works on others Linux operating systems.
+Perl script that scans one o more protein motif pattern(s) in FASTA files (i.e., protein sequences). This scripts relies on PROSITE; therefore, it requires the external program pfscan. A binary executable file is given in this repository. This script has been tested on Linux Ubuntu 16.04, but it is probable that also works on others Linux operating systems.
 
 ## Publication
 
